@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Create / Edit";
+}
+
+@model MVC_first.Models.Expense
+
+<div class="text-center">
+    <h1 class="display-4">Create or edit</h1>
+</div>
+
+<form asp-action="CreateEditExpenseForm" asp-controller="Home">
+    <input hidden class="form-control" type="number" asp-for="Id"/>
+
+    <label class="mt-4">Value</label>
+    <input class="form-control" type="number" asp-for="Value" step="0.1"/>
+
+    <label class="mt-4">Description</label>
+    <input class ="form-control" type="text" asp-for="Description" />
+
+    <button class="btn btn-primary mt-4" type="submit">Add</button>
+</form>

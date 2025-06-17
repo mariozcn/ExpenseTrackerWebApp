@@ -1,0 +1,53 @@
+# Ignore build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET temporary files
+*.dbmdl
+*.bak
+*.log
+
+# Local database
+*.mdf
+*.ldf
+
+# Entity Framework tools
+Migrations/obj/
+Migrations/bin/
+
+# Rider / VS Code / JetBrains / VS specific folders
+.vscode/
+.idea/
+.vs/
+
+# Secrets & sensitive config
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+logs/
+
+# npm / node
+node_modules/
+
+# Others
+wwwroot/dist/
+.env
+.env.*
+
+# Mac & system files
+.DS_Store
+Thumbs.db
