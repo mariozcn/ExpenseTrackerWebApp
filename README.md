@@ -37,7 +37,7 @@ If you'd like to see the app functionality, please refer to the screenshots belo
 ## 📸 Screenshots
 
 ![Home - Expense List](screenshots/ss1.png)
-*View of all household expenses with sorting and edit/delete actions*
+*View of all household expenses with edit/delete actions*
 
 ![Add / Edit Expense Form](screenshots/ss2.png)
 *Form to add a new / edit an existing expense entry*
