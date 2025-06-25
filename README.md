@@ -1,4 +1,4 @@
-# 🏠 Household Expense Tracker (Private)
+ # 🏠 Household Expense Tracker (Private)
 
 A full-stack web app to track and manage household expenses. Built using ASP.NET Core MVC, Entity Framework, and hosted on Azure App Service with Azure SQL Database for persistent storage.
 
@@ -64,5 +64,5 @@ If you'd like to see the app functionality, please refer to the screenshots belo
 ---
 ## 🙋‍♂️ Author
 
-**Rusu Ioan Mario**  
+**Rusu Mario Antonio**  
 Student @ UTCN • Aspiring .NET Developer  
